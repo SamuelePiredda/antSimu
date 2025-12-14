@@ -1,7 +1,10 @@
-import matplotlib.pyplot as plt
+﻿import matplotlib.pyplot as plt
 import necpp
 import numpy as np
 
+#TODO: WRITE A LOT OF COMMENTS TO EXPLAIN THE USAGE OF THE NEC++ API
+#TODO: IMPROVE ERROR HANDLING
+#TODO: ADD EFFICIENCY CALCULATION FUNCTION
 
 def nec_create():
     try:
